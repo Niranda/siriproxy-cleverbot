@@ -7,4 +7,4 @@
 ############################################
 
     - name: 'Cleverbot'
-      git: 'git://github.com/Ponyboy47/siriproxy-cleverbot.git'
+      git: 'git://github.com/Niranda/siriproxy-cleverbot.git'
